@@ -1,0 +1,189 @@
+########################
+# GOOGLE / DOUBLECLICK
+########################
+||doubleclick.net^
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googlesyndication.com^
+||ads.google.com^
+||adservice.google.com^
+||adservice.google.ru^
+||adsense.google.com^
+||analytics.google.com^
+||google-analytics.com^
+||ssl.google-analytics.com^
+||www.google-analytics.com^
+||googletagmanager.com^
+||googletagservices.com^
+||fundingchoicesmessages.google.com^
+||fundingchoicesmessages.googleusercontent.com^
+
+########################
+# META (FACEBOOK)
+########################
+||facebook.com/tr^
+||connect.facebook.net^
+||graph.facebook.com^
+||ads.facebook.com^
+||analytics.facebook.com^
+||pixel.facebook.com^
+||fbcdn.net^
+||static.ads.facebook.com^
+
+########################
+# INSTAGRAM
+########################
+||ads.instagram.com^
+||i.instagram.com/api/v1/ads^
+||logging.instagram.com^
+
+########################
+# TIKTOK
+########################
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||log.byteoversea.com^
+||log.tiktokv.com^
+||mon.isnssdk.com^
+
+########################
+# TWITTER / X
+########################
+||ads.twitter.com^
+||analytics.twitter.com^
+||scribe.twitter.com^
+
+########################
+# MICROSOFT
+########################
+||ads.microsoft.com^
+||bat.bing.com^
+||c.bing.com^
+||analytics.microsoft.com^
+||clarity.ms^
+
+########################
+# AMAZON
+########################
+||amazon-adsystem.com^
+||adsystem.amazon.com^
+||ad.amazon-adsystem.com^
+
+########################
+# YAHOO / AOL
+########################
+||ads.yahoo.com^
+||analytics.yahoo.com^
+||gemini.yahoo.com^
+||ads.aol.com^
+
+########################
+# YANDEX
+########################
+||ads.yandex.ru^
+||an.yandex.ru^
+||mc.yandex.ru^
+||metrika.yandex.ru^
+||yandexadexchange.net^
+
+########################
+# VK / MAIL.RU
+########################
+||ads.vk.com^
+||trk.mail.ru^
+||top.mail.ru^
+||ads.mail.ru^
+||mytracker.mytarget.com^
+
+########################
+# AFFILIATE / NATIVE ADS
+########################
+||taboola.com^
+||cdn.taboola.com^
+||outbrain.com^
+||mgid.com^
+||zedo.com^
+||revcontent.com^
+||propellerads.com^
+||adnow.com^
+||hilltopads.net^
+
+########################
+# PROGRAMMATIC / RTB
+########################
+||criteo.com^
+||criteo.net^
+||openx.net^
+||rubiconproject.com^
+||pubmatic.com^
+||adform.net^
+||adsrvr.org^
+||bidswitch.net^
+||indexexchange.com^
+||spotx.tv^
+||yieldmo.com^
+
+########################
+# ANALYTICS / TRACKING
+########################
+||hotjar.com^
+||static.hotjar.com^
+||mouseflow.com^
+||statcounter.com^
+||mixpanel.com^
+||amplitude.com^
+||segment.com^
+||heap.io^
+||kissmetrics.com^
+||chartbeat.com^
+||newrelic.com^
+||sentry.io^
+||bugsnag.com^
+
+########################
+# MOBILE SDK / ATTRIBUTION
+########################
+||adjust.com^
+||app-measurement.com^
+||branch.io^
+||kochava.com^
+||tenjin.io^
+||singular.net^
+
+########################
+# VIDEO ADS
+########################
+||ads.youtube.com^
+||s.youtube.com/api/stats/ads^
+||googlevideo.com/videoplayback?*&adformat=*
+
+########################
+# PUSH / NOTIFICATION ADS
+########################
+||pushwoosh.com^
+||onesignal.com^
+||firebaseinstallations.googleapis.com^
+
+########################
+# TELEMETRY / BEACONS
+########################
+||beacon.krxd.net^
+||pixel.quantserve.com^
+||scorecardresearch.com^
+||moatads.com^
+||adsafeprotected.com^
+
+########################
+# GENERIC
+########################
+||tracking.^
+||analytics.^
+||metrics.^
+||telemetry.^
+||ads.^
+||adservice.^
+||banner.^
+||counter.^
